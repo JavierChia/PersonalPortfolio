@@ -10,7 +10,7 @@ const projects = [
   },
   {
     name: "Personal Portfolio Website",
-    repo: "https://github.com/JavierChia/BED-Assignment-2",
+    repo: "https://javierchia.netlify.app/",
     image: Portfolio,
     tags: ["React", "TailwindCSS"]
   },
